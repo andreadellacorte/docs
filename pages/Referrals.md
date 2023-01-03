@@ -15,44 +15,25 @@ nav_order: 7
 
 ---
 
-# Can I work with multiple coaches?
-Yes, though we recommend Software Engneers do most of their sessions with one coach, as there are many topics to cover.
+## How does the referral program work?
+When you refer a friend, you and your friend each get $25 to spend on future sessions.
 
-# Can I get a refund for unused sessions?
-Yes, 100% money back, no questions asked.
+The system works in three easy steps:
 
-# Is there a time limit to using the coaching sessions?
-No, credits never expire.
+1. Ask your friend to mention your name during the introductory call
 
-# What is the process of scheduling?
-All sessions are booked via Calendly.
+2. Your friend gets $25 off their first purchase
 
-# What's your cancellation, "no show" and rescheduling policy?
-If you need to cancel a session, please inform us at least before 24 hour. Otherwise, we will consume 50% of a credit.
+3. You get $25 off your next purchase too!
 
-# How do I get receipts for tax purposes?
-Please send us a mail at billing-team@techinterview.coach for any of your billing-related queries.
+## What are the terms for the referral program?
 
-# I’ve got an interview tomorrow, can you help me?
-Please book a session with https://calendly.com/dellacorte/15min or drop a mail to hello@techinterview.coach and we will see what can be done.
+The referral program is subject to change/stop without prior notice. $25 discount on the next purchase session per successful referral.
 
-# Your services sound expensive: is it worth the money?
-While the cost might seem high, you only need a few sessions to make a difference and get your next job (and a payrise 🙂)!
+Techinterview.coach reserves the right, at its sole discretion, to prohibit any person from participating in any aspect of the Program if Techinterview.coach deems or suspects that such person has engaged in or has attempted to engage in any of the following:
 
-# Can you help me explore career options, create my resume, put together my LinkedIn profile, compose cover letters, and write selection criteria?
-Yes, we can help you with that and many more services.
+1. acting in violation of these Program Terms and Conditions;
+2. damaging, tampering with or corrupting the operation of the Program or Site;
+3. activity deemed in the sole discretion of Techinterview.coach to be generally inconsistent with the intended operation of the Program.
 
-# How many classes should I schedule?
-Three to five sessions is the norm for in-depth preparation. One session or two ahead of an upcoming interview are also beneficial.
-
-# Do you help with coding or whiteboard session?
-Yes, we have Senior Software Engineers and Engineering Managers ready to help.
-
-# I am still in college, do I need the coaching?
-Yes, we have coached students and helped them get accepted in their internships as well as their first job.
-
-# Can I buy sessions for my son/daughter/family member?
-Yes, please send us the contact details of the person who will be attending the session.
-
-# How does the referral program work?
-Please see https://techinterview.coach/referral
+Techinterview.coach shall be the sole determiner in cases of suspected abuse, fraud, or breach of these Program Terms and Conditions or intent of these Program Terms and Conditions.
