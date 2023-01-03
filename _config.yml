@@ -8,6 +8,7 @@ url: "https://techinterview.coach" # the base hostname & protocol for your site,
 aux_links:
   Home: https://techinterview.coach
   Blog: https://techinterview.coach/blog
+  Blog: /docs/pages/become-a-coach
   Privacy Policy: /docs/pages/privacy-policy
 
 # Google Analytics Tracking (optional)
