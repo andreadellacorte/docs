@@ -12,7 +12,7 @@ We are looking for more members to join our crew and make job-searching more fun
 {: .fs-6 .fw-300 }
 
 | learn new skills & grow your network | flexible, manage your own schedule | rewarding, earn while having fun |
-| 50% off coaching sessions | rewards for positive reviews | training & support |
+| 50% off coaching sessions | rewards for positive reviews | we provide training & support |
 
 ---
 
