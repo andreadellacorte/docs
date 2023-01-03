@@ -3,7 +3,7 @@ layout: default
 title: Referrals
 ---
 
-# {{ title }}
+# {{ page.title }}
 {: .no_toc }
 
 ## Table of contents

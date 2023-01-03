@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# {{ title }}
+# {{ page.title }}
 {: .no_toc }
 
 ## Table of contents
