@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Payment
-nav_order: 6
 ---
 
 # {{ title }}
