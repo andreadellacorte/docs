@@ -20,9 +20,9 @@ We are looking for more members to join our crew and make job-searching more fun
 
 We are looking for:
 
-- Senior Software Developer Coach (senior) - 5+ years of experience
-- Software Developer Coach - 3+ years of experience
-- Data Science Coach - 5+ years of experience
+- Senior Software Developer Coach (7+ years of experience)
+- Software Developer Coach (4+ years of experience)
+- Data Science Coach (5+ years of experience)
 
 [Apply now](mailto:communications"@techinterview.coach){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
