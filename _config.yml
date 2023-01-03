@@ -17,8 +17,6 @@ favicon_ico: "/assets/images/favicon.png"
 # Supports true (default) or false
 search_enabled: true
 
-
-
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
