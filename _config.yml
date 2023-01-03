@@ -2,7 +2,8 @@ title: Tech Interview Coach | FAQs
 description: All the docs you need for Tech Interview Coaching.
 theme: just-the-docs
 
-url: https://techinterview.coach/docs
+baseurl: "/techinterview.coach-docs/" # the subpath of your site, e.g. /blog
+url: "https://techinterview.coach" # the base hostname & protocol for your site, e.g. http://example.com
 
 aux_links:
   Home: https://techinterview.coach
