@@ -15,6 +15,9 @@ nav_order: 1
 
 ---
 
+{: .new }
+> When you refer a friend, you and your friend each get $25 to spend on future sessions. For more details, see [/pages/referrals].
+
 ## Who is Tech Interview Coaching?
 
 Tech Interview Coaching is a small consortium of coaches passionate to make a difference.
