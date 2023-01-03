@@ -23,4 +23,6 @@ All sessions are booked via Calendly. Once you have purchased your credits, we'l
 {: .important-title }
 > Didn't find what you are looking for?
 >
-> Test
+> Get in touch with us:
+>
+> [Contact Us](mailto:communications@techinterview.coach){: .btn }
