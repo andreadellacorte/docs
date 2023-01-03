@@ -7,7 +7,7 @@ url: "https://techinterview.coach" # the base hostname & protocol for your site,
 
 aux_links:
   Home: https://techinterview.coach
-  Privacy Policy: /pages/privacy-policy
+  Privacy Policy: /docs/pages/privacy-policy
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo.png"
