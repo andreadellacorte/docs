@@ -16,9 +16,7 @@ We are looking for more members to join our crew and make job-searching more fun
 
 ---
 
-## Our openings:
-
-We are looking for:
+## We are looking for:
 
 - Senior Software Developer Coach (7+ years of experience)
 - Software Developer Coach (4+ years of experience)
