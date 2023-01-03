@@ -17,6 +17,8 @@ nav_order: 1
 
 # Who is Tech Interview Coaching?
 
+Tech Interview Coaching is a small consortium of coaches passionate to make a difference.
+
 # Where can I find the general terms and conditions?
 
 You will find the General Terms and Conditions (a.k.a. the rental conditions) in the Belvilla Help Centre section.
