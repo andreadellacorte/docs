@@ -26,20 +26,19 @@ You will find the privacy policy at <https://techinterview.coach/docs/pages/priv
 ## I’ve got an interview coming up very soon, can you help me?
 Please message us via <https://techinterview.coach/whatsapp> or <hello@techinterview.coach> as soon as possible.
 
-## Your services sound expensive: is it worth the money?
-While the cost might seem high, you only need a few sessions to make a difference and get your next job (and a payrise 🙂)!
-
-## Can you help me explore career options, create my resume, put together my LinkedIn profile, compose cover letters, and write selection criteria?
-Yes, we can help you with that and many more services.
+## Can you help me with things like exploring career options, improving my resume or LinkedIn profile, or reviewing cover letters?
+Yes, we pride ourselves in being a "full stack" coaching service - whatever is the best way to get you hired, then we'll do it.
 
 ## How many classes should I schedule?
-Three to five sessions is the norm for in-depth preparation. One session or two ahead of an upcoming interview are also beneficial.
-
+Three to five sessions is the norm for in-depth preparation. For a polish ahead of an upcoming interview, one or two sessions are sufficient.
+ 
 ## Do you help with coding or whiteboard session?
 Yes, we have Senior Software Engineers and Engineering Managers ready to help.
 
-## I am still in college, do I need the coaching?
+## Have you coached students or interns before?
 Yes, we have coached students and helped them get accepted in their internships as well as their first job.
+
+For graduates/students, we offer a 25% discount on all purchases.
 
 ## How can I contact Tech Interview Coaching?
 
