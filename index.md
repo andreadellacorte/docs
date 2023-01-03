@@ -49,7 +49,7 @@ Yes, we have coached students and helped them get accepted in their internships 
 
 For graduates/students, we offer a 25% discount on all purchases.
 
-## How can I contact Tech Interview Coaching?
+## How can I contact Tech Interview Coach?
 
 You can contact us at communications@techinterview.coach.
 
