@@ -16,7 +16,7 @@ nav_order: 1
 ---
 
 {: .new }
-> When you refer a friend, you and your friend each get $25 to spend on future sessions. For more details, see {% link pages/referrals.md %}.
+> When you refer a friend, you and your friend each get $25 to spend on future sessions. For more details, see [Referrals]({% link pages/referrals.md %}).
 
 ## Who is Tech Interview Coaching?
 
