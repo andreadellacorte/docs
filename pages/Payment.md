@@ -4,7 +4,7 @@ title: Payment
 nav_order: 6
 ---
 
-# Customization
+# {{ title }}
 {: .no_toc }
 
 ## Table of contents

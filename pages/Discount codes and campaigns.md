@@ -3,7 +3,7 @@ layout: default
 title: Discount codes and campaigns
 ---
 
-# Customization
+# {{ title }}
 {: .no_toc }
 
 ## Table of contents

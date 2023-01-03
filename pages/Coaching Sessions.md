@@ -3,7 +3,7 @@ layout: default
 title: Coaching Sessions
 ---
 
-# Customization
+# {{ title }}
 {: .no_toc }
 
 ## Table of contents

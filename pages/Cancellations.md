@@ -3,7 +3,7 @@ layout: default
 title: Cancellations
 ---
 
-# Customization
+# {{ title }}
 {: .no_toc }
 
 ## Table of contents

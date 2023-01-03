@@ -4,6 +4,17 @@ layout: home
 nav_order: 1
 ---
 
+# {{ title }}
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Who is Tech Interview Coaching?
 
 # Where can I find the general terms and conditions?
