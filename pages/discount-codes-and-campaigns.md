@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8. Discount codes and campaigns
+title: 8. Discount Codes and Campaigns
 nav_order: 8
 ---
 
