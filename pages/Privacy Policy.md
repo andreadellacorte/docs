@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 8. Privacy Policy
-nav_order: 8
+title: 9. Privacy Policy
+nav_order: 9
 ---
 
 # {{ page.title }}
