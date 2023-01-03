@@ -19,14 +19,32 @@ nav_order: 1
 
 Tech Interview Coaching is a small consortium of coaches passionate to make a difference.
 
-# Where can I find the general terms and conditions?
+## Where can I find the general terms and conditions?
 
-You will find the General Terms and Conditions (a.k.a. the rental conditions) in the Belvilla Help Centre section.
+You will find the General Terms and Conditions at [[]]. The privacy policy is available at https://techinterview.coach/privacy-policy
 
-# How can I contact Tech Interview Coaching?
+## I’ve got an interview tomorrow, can you help me?
+Please book a session with https://calendly.com/dellacorte/15min or drop a mail to hello@techinterview.coach and we will see what can be done.
+
+## Your services sound expensive: is it worth the money?
+While the cost might seem high, you only need a few sessions to make a difference and get your next job (and a payrise 🙂)!
+
+## Can you help me explore career options, create my resume, put together my LinkedIn profile, compose cover letters, and write selection criteria?
+Yes, we can help you with that and many more services.
+
+## How many classes should I schedule?
+Three to five sessions is the norm for in-depth preparation. One session or two ahead of an upcoming interview are also beneficial.
+
+## Do you help with coding or whiteboard session?
+Yes, we have Senior Software Engineers and Engineering Managers ready to help.
+
+## I am still in college, do I need the coaching?
+Yes, we have coached students and helped them get accepted in their internships as well as their first job.
+
+## How can I contact Tech Interview Coaching?
 
 You can contact us at communications@techinterview.coach.
 
-# How can I file a complaint?
+## How can I file a complaint?
 
 You can contact us at hello@techinterview.coach.
