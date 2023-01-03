@@ -9,6 +9,10 @@ aux_links:
   Home: https://techinterview.coach
   Privacy Policy: /docs/pages/privacy-policy
 
+# Google Analytics Tracking (optional)
+ga_tracking: UA-124021291-3
+ga_tracking_anonymize_ip: false
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo.png"
 
