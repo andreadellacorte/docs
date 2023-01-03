@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Payment
+title: Bookings
+nav_order: 4
 ---
 
 # {{ page.title }}
@@ -13,6 +14,8 @@ title: Payment
 {:toc}
 
 ---
+
+
 
 # Can I work with multiple coaches?
 Yes, though we recommend Software Engneers do most of their sessions with one coach, as there are many topics to cover.

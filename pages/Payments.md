@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Discount codes and campaigns
-nav_order: 8
+title: Payment
+nav_order: 2
 ---
 
 # {{ page.title }}

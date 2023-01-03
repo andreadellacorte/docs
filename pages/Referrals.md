@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Referrals
+nav_order: 7
 ---
 
 # {{ page.title }}

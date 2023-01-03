@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Coaching Sessions
+nav_order: 5
 ---
 
 # {{ page.title }}

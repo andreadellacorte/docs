@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cancellations
+nav_order: 6
 ---
 
 # {{ page.title }}
