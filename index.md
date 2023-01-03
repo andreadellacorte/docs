@@ -21,10 +21,10 @@ Tech Interview Coaching is a small consortium of coaches passionate to make a di
 
 ## Where can I find the privacy policy?
 
-You will find the privacy policy at https://techinterview.coach/docs/pages/privacy-policy
+You will find the privacy policy at <https://techinterview.coach/docs/pages/privacy-policy>
 
 ## I’ve got an interview coming up very soon, can you help me?
-Please message us via https://techinterview.coach/whatsapp or hello@techinterview.coach as soon as possible.
+Please message us via <https://techinterview.coach/whatsapp> or <hello@techinterview.coach> as soon as possible.
 
 ## Your services sound expensive: is it worth the money?
 While the cost might seem high, you only need a few sessions to make a difference and get your next job (and a payrise 🙂)!
