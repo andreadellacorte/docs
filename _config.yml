@@ -74,7 +74,7 @@ callouts:
     color: yellow
   important:
     title: Important
-    color: #0064a4
+    color: brand-blue
   new:
     title: New
     color: green
