@@ -18,7 +18,9 @@ nav_order: 4
 ## What is the process for scheduling?
 All sessions are booked via Calendly. Once you have purchased your credits, we'll provide you with the Calendly link for your coach.
 
+---
+
 {: .important-title }
 > Didn't find what you are looking for?
 >
-> [Contact Us](mailto:communications@techinterview.coach){: .btn }
+> Test
