@@ -15,7 +15,7 @@ nav_order: 1
 
 ---
 
-# Who is Tech Interview Coaching?
+## Who is Tech Interview Coaching?
 
 Tech Interview Coaching is a small consortium of coaches passionate to make a difference.
 
@@ -23,8 +23,8 @@ Tech Interview Coaching is a small consortium of coaches passionate to make a di
 
 You will find the General Terms and Conditions at [[]]. The privacy policy is available at https://techinterview.coach/privacy-policy
 
-## I’ve got an interview tomorrow, can you help me?
-Please book a session with https://calendly.com/dellacorte/15min or drop a mail to hello@techinterview.coach and we will see what can be done.
+## I’ve got an interview coming up very soon, can you help me?
+Please message us via https://techinterview.coach/whatsapp or hello@techinterview.coach as soon as possible.
 
 ## Your services sound expensive: is it worth the money?
 While the cost might seem high, you only need a few sessions to make a difference and get your next job (and a payrise 🙂)!

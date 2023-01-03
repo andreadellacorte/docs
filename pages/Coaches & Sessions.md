@@ -17,10 +17,14 @@ nav_order: 5
 
 ## How long do sessions last?
 
+Sessions last no less than 60 minutes, oftentimes a bit more.
+
 ## What should I expect from a coaching session?
 
-## Do you help with coding or whiteboard session?
+Coaching sessions are tailored to your needs. The most common format is the "mock interview", where the coach will quiz you and provide you feedback on your answers.
+
+## Do you help with coding or whiteboarding interviews?
 Yes, we have Senior Software Engineers and Engineering Managers ready to help.
 
 ## Can I work with multiple coaches?
-Yes, though we recommend Software Engneers do most of their sessions with one coach, as there are many topics to cover.
+Yes, though we recommend Software Engneers do most of their sessions with one coach.
