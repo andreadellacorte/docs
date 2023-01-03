@@ -25,4 +25,8 @@ You will find the General Terms and Conditions (a.k.a. the rental conditions) in
 
 # How can I contact Tech Interview Coaching?
 
+You can contact us at communications@techinterview.coach.
+
 # How can I file a complaint?
+
+You can contact us at hello@techinterview.coach.
