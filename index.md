@@ -48,3 +48,7 @@ You can contact us at communications@techinterview.coach.
 ## How can I file a complaint?
 
 You can contact us at hello@techinterview.coach.
+
+---
+
+{% include get-in-touch.html %}
