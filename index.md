@@ -19,9 +19,9 @@ nav_order: 1
 
 Tech Interview Coaching is a small consortium of coaches passionate to make a difference.
 
-## Where can I find the general terms and conditions?
+## Where can I find the privacy policy?
 
-You will find the General Terms and Conditions at [[]]. The privacy policy is available at https://techinterview.coach/privacy-policy
+You will find the privacy policy at https://techinterview.coach/docs/pages/privacy-policy
 
 ## I’ve got an interview coming up very soon, can you help me?
 Please message us via https://techinterview.coach/whatsapp or hello@techinterview.coach as soon as possible.
