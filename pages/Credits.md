@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Payment
+title: Credits
 nav_order: 3
 ---
 
