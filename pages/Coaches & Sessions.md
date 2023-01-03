@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7. Coaches & Sessions
+title: 5. Coaches & Sessions
 nav_order: 5
 ---
 
