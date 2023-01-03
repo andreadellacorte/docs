@@ -5,20 +5,25 @@ nav_exclude: true
 ---
 
 # {{ page.title }}
-{: .no_toc }
+{: .fs-9 }
 
-## Table of contents
-{: .no_toc .text-delta }
+Become 
+{: .fs-6 .fw-300 }
 
-1. TOC
-{:toc}
+[Apply now](mailto:communications"@techinterview.coach){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+| learn new skills & grow your network | flexible, manage your own schedule | rewarding, earn while having fun |
+| 50% off coaching sessions | rewards for positive reviews | training & support |
 
 ---
 
-Become a coach for Tech Interview Coach!
+## Our openings:
 
-| learn new skills & grow your network | flexible, manage your own schedule | rewarding, earn while having fun|
-| 50% off coaching sessions | rewards for positive reviews | training provided |
+We are looking for:
+
+- Senior Software Developer Coach (senior) - 5+ years of experience
+- Software Developer Coach - 3+ years of experience
+- Data Science Coach - 5+ years of experience
 
 ---
 
