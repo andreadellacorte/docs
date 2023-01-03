@@ -20,9 +20,13 @@ nav_order: 1
 >
 > For more details, see [Referrals]({% link pages/referrals.md %}).
 
-## Who is Tech Interview Coaching?
+## Who is Tech Interview Coach?
 
 Tech Interview Coaching is a small consortium of coaches passionate to make a difference.
+
+## What is the mission of Tech Interview Coach?
+
+Our mission is making job hunting quick, rewarding and enjoyable!
 
 ## Where can I find the privacy policy?
 
