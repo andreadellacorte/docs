@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bookings
+title: 4. Bookings
 nav_order: 4
 ---
 

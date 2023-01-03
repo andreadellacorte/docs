@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cancellations
+title: 6. Cancellations
 nav_order: 6
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Payment
+title: 2. Payment
 nav_order: 2
 ---
 
