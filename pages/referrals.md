@@ -37,3 +37,7 @@ Techinterview.coach reserves the right, at its sole discretion, to prohibit any 
 3. activity deemed in the sole discretion of Techinterview.coach to be generally inconsistent with the intended operation of the Program.
 
 Techinterview.coach shall be the sole determiner in cases of suspected abuse, fraud, or breach of these Program Terms and Conditions or intent of these Program Terms and Conditions.
+
+---
+
+{% include get-in-touch.html %}

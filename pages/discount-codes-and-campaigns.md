@@ -15,3 +15,8 @@ nav_order: 8
 
 ---
 
+No campaigns ongoing at the moment :(
+
+---
+
+{% include get-in-touch.html %}

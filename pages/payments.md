@@ -20,3 +20,7 @@ Our payments are collected via Stripe.
 
 ## How do I get receipts for tax purposes?
 Please send us a mail at billing-team@techinterview.coach for any of your billing-related queries.
+
+---
+
+{% include get-in-touch.html %}

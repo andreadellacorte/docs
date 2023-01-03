@@ -20,3 +20,7 @@ If you need to cancel a session, please inform us at least before 24 hour. Other
 
 ## Can I get a refund for unused credits?
 Yes, 100% money back, no questions asked.
+
+---
+
+{% include get-in-touch.html %}
