@@ -30,6 +30,10 @@ Yes, We provide discount for bulk session booking.
 * 3 Sessions: 15% discount
 * 4 Sessions: 20% discount
 * 5 Sessions: 25% discount
+
+##Your services sound expensive: is it worth the money?
+While the cost might seem high, you only need a few sessions to make a difference and get your next job (and a payrise 🙂)!
+
 ---
 
 {% include get-in-touch.html %}
