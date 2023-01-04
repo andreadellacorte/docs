@@ -49,6 +49,9 @@ Yes, we have coached students and helped them get accepted in their internships 
 
 For graduates/students, we offer a 25% discount on all purchases.
 
+## Can I buy sessions for my son/daughter/family member?
+Yes, please send us the contact details of the person who will be attending the session.
+
 ## How can I contact Tech Interview Coach?
 
 You can contact us at <communications@techinterview.coach>.
