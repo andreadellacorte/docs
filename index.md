@@ -51,11 +51,11 @@ For graduates/students, we offer a 25% discount on all purchases.
 
 ## How can I contact Tech Interview Coach?
 
-You can contact us at communications@techinterview.coach.
+You can contact us at <communications@techinterview.coach>.
 
 ## How can I file a complaint?
 
-You can contact us at hello@techinterview.coach.
+You can contact us at <hello@techinterview.coach>.
 
 ---
 
