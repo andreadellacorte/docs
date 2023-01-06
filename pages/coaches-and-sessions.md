@@ -17,7 +17,7 @@ nav_order: 5
 
 ## How long do sessions last?
 
-Sessions last no less than 60 minutes, oftentimes a bit more.
+Sessions last no less than 60 minutes, oftentimes a bit more. Coaches usually spend the first ~45mins giving a mock interview to the coachee and ~15mins on feedback.
 
 ## What should I expect from a coaching session?
 
