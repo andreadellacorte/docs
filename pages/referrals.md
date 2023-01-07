@@ -18,6 +18,8 @@ nav_order: 7
 {: .new }
 > When you refer a friend, you and your friend each get $25 to spend on future sessions.
 
+{% include  share.html %}
+
 ## How does the referral program work?
 
 The system works in three easy steps:
