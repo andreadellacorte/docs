@@ -22,7 +22,7 @@ We are looking for more members to join our crew and make job-searching fun and 
 - Software Developer Coach (4+ years of experience)
 - Data Science Coach (5+ years of experience)
 
-[Apply now](mailto:communications"@techinterview.coach){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Apply now](mailto:communications@techinterview.coach){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## How does it work?
 
